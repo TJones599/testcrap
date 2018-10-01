@@ -1,0 +1,14 @@
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\bin\Debug\testcrap.exe.config
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\bin\Debug\testcrap.exe
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\bin\Debug\testcrap.pdb
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\obj\Debug\testcrap.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\obj\Debug\testcrap.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\obj\Debug\testcrap.exe
+C:\Users\Tyler Jones\source\repos\testcrap\testcrap\obj\Debug\testcrap.pdb
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\bin\Debug\testcrap.exe.config
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\bin\Debug\testcrap.exe
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\bin\Debug\testcrap.pdb
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\obj\Debug\testcrap.csprojAssemblyReference.cache
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\obj\Debug\testcrap.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\obj\Debug\testcrap.exe
+C:\Users\Tyler Jones\source\repos\Week1\testcrap\testcrap\obj\Debug\testcrap.pdb
